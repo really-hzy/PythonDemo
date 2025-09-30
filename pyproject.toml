@@ -8,4 +8,5 @@ dependencies = [
     "ipython>=9.5.0",
     "langchain-ollama>=0.3.8",
     "pillow>=11.3.0",
+    "playwright>=1.55.0",
 ]
